@@ -1,0 +1,2 @@
+# MyanmarOCR
+Myanmar OCR
